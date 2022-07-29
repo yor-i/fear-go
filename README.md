@@ -1,3 +1,3 @@
-# Fear in Python3
-## A [Fear](https://esolangs.org/wiki/Fear) interpreter written in Python 3
+# Fear in Go
+## A [Fear](https://esolangs.org/wiki/Fear) interpreter written in Go
 Why? Because. (Day 3)
